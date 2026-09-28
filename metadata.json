@@ -1,0 +1,7 @@
+{
+  "name": "Learning Management System",
+  "description": "A comprehensive Learning Management System with registration, login, student/instructor/admin dashboards, course player, quizzes, certificates, and AI tutor.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
